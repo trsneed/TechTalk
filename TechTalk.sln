@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalkDataAccess", "TechTalkDataAccess\TechTalkDataAccess.csproj", "{818A05F1-741B-4E30-8FC4-ADE2D71D60E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalkDomain", "TechTalkDomain\TechTalkDomain.csproj", "{102EB46D-9D69-4A64-A557-98E5B31075DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalkApi", "TechTalkApi\TechTalkApi.csproj", "{4D352E74-5923-4DE7-9E8C-A6AB202B021E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalkTests", "TechTalkTests\TechTalkTests.csproj", "{D92AFB12-5267-4592-9815-F93B0825127F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818A05F1-741B-4E30-8FC4-ADE2D71D60E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818A05F1-741B-4E30-8FC4-ADE2D71D60E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818A05F1-741B-4E30-8FC4-ADE2D71D60E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818A05F1-741B-4E30-8FC4-ADE2D71D60E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102EB46D-9D69-4A64-A557-98E5B31075DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102EB46D-9D69-4A64-A557-98E5B31075DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102EB46D-9D69-4A64-A557-98E5B31075DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102EB46D-9D69-4A64-A557-98E5B31075DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D352E74-5923-4DE7-9E8C-A6AB202B021E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D352E74-5923-4DE7-9E8C-A6AB202B021E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D352E74-5923-4DE7-9E8C-A6AB202B021E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D352E74-5923-4DE7-9E8C-A6AB202B021E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92AFB12-5267-4592-9815-F93B0825127F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92AFB12-5267-4592-9815-F93B0825127F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92AFB12-5267-4592-9815-F93B0825127F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92AFB12-5267-4592-9815-F93B0825127F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
